@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Loops.iml" filepath="$PROJECT_DIR$/.idea/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do_while/do_while.iml" filepath="$PROJECT_DIR$/do_while/do_while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for_loop/for_loop.iml" filepath="$PROJECT_DIR$/for_loop/for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileloop/whileloop.iml" filepath="$PROJECT_DIR$/whileloop/whileloop.iml" />
+    </modules>
+  </component>
+</project>

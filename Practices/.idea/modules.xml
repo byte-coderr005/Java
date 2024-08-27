@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practices.iml" filepath="$PROJECT_DIR$/Practices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercs/exercs.iml" filepath="$PROJECT_DIR$/exercs/exercs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercs2/exercs2.iml" filepath="$PROJECT_DIR$/exercs2/exercs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lists_ex/lists_ex.iml" filepath="$PROJECT_DIR$/lists_ex/lists_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiples3_5/multiples3_5.iml" filepath="$PROJECT_DIR$/multiples3_5/multiples3_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pract23/pract23.iml" filepath="$PROJECT_DIR$/pract23/pract23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeNum/primeNum.iml" filepath="$PROJECT_DIR$/primeNum/primeNum.iml" />
+    </modules>
+  </component>
+</project>
